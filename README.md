@@ -1,4 +1,4 @@
-<p align="center"><h1>🧠 精彩的Claude提示</h1></p>
+<p align="center"><h1>🧠 精彩的Claude提示(中文翻译)</h1></p>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/LICENSE)
